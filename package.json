@@ -1,7 +1,7 @@
 {
   "name": "articles-app",
   "version": "0.1.0",
-  "homepage": "https://axizzy19.github.io/repository-name",
+  "homepage": "https://axizzy19.github.io/articles-app",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.0",
